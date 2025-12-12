@@ -1,43 +1,18 @@
-# Hi there 👋
+# 💫 About Me:
+Act as a professional developer and technical writer. Please generate a high-quality, impressive README.md for my GitHub profile (https://github.com/damaleparas).<br>Here is my profile context:<br><br>Username: damaleparas<br>Core Tech Stack: Python, TypeScript, React.<br>Key Projects to Highlight:<br>my_financial_app1: An investment risk predictor (Python).<br>premium_predictor: A prediction tool (Python).<br>apex-watch: A TypeScript project.<br>my-react-app: A React application for testing and development (TypeScript).<br>mcp_testing & stakeholder_communication: Ongoing testing and communication projects.<br>Interests: Financial Tech (FinTech), Predictive Analysis, Web Development, and Testing.<br>Please include the following sections in the README:<br><br>Header: A catchy title or "Hi there 👋" with a short, professional bio about my interest in FinTech and Full Stack Development.<br>Tech Stack: Use simple icons/badges for Python, TypeScript(basic), React(basic),ML and Git.<br>Featured Projects: A table or list with the project names mentioned above, a brief description for each based on their names, and the primary language used.<br>GitHub Stats: specific markdown code for "GitHub Streak Stats" and "Top Languages" cards (theme: dark or radical).<br>Connect with Me: Placeholders for LinkedIn or Email.<br>Style: Clean, minimalist, and professional. Use emojis sparingly to keep it modern."
 
-### 🚀 Developer | FinTech & Predictive Analysis
 
-I am a developer focused on the intersection of **Financial Technology** and **Machine Learning**. I specialize in building Python-based predictive models and am currently expanding my full-stack capabilities with React and TypeScript.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/paras-damale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damaleparas@gmail.com) 
 
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=damaleparas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=damaleparas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=damaleparas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=damaleparas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔭 Featured Projects
-
-| Project | Description | Primary Language |
-| :--- | :--- | :--- |
-| **[my_financial_app1](https://github.com/damaleparas/my_financial_app1)** | Investment risk predictor and financial analysis tool. | Python |
-| **[premium_predictor](https://github.com/damaleparas/premium_predictor)** | A predictive modeling tool for cost and premium estimation. | Python |
-| **[apex-watch](https://github.com/damaleparas/apex-watch)** | Utility and monitoring project built with strong typing. | TypeScript |
-| **[my-react-app](https://github.com/damaleparas/my-react-app)** | Frontend development sandbox for UI component testing. | React/TS |
-| **[mcp_testing](https://github.com/damaleparas/mcp_testing)** | Experiments with Model Context Protocol integrations. | Python |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damaleparas&theme=radical&hide_border=true" alt="damaleparas streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damaleparas&layout=compact&theme=radical&hide_border=true" alt="damaleparas languages" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
