@@ -2,7 +2,7 @@
 
 ### 🚀 Developer | FinTech & Predictive Analysis
 
-I am a developer focused on the intersection of **Financial Technology** and **Machine Learning**. I specialize in building Python-based predictive models and am currently expanding my full-stack capabilities with React and TypeScript.
+I am a developer focused on the intersection of **Web Technology** and **Machine Learning**. I am specializing in building Python-based predictive models and am currently expanding my full-stack capabilities with React and TypeScript.
 
 ---
 
